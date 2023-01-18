@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashwata2003
 - 📫 How to reach me - you can mail me anytime at shashwatasamanta5@gmail.com
-- http://shashwatasamanta.netlfy.com/
+-https://shashwatasamanta.netlify.app/
 
 
